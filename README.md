@@ -38,7 +38,3 @@ npx brizzle scaffold post title:string body:text published:boolean
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=mantaskaveckas&show_icons=true&theme=dark&hide_border=true" alt="GitHub Stats" />
 </p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=mantaskaveckas&theme=dark&hide_border=true" alt="GitHub Streak" />
-</p>
