@@ -40,5 +40,5 @@ npx brizzle scaffold post title:string body:text published:boolean
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mantaskaveckas&theme=dark&hide_border=true" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com/?user=mantaskaveckas&theme=dark&hide_border=true" alt="GitHub Streak" />
 </p>
